@@ -1,0 +1,6 @@
+I am running ansible on local machine and have a different server setup for LXD server. Does anyone have ansible playbook or roles where i can install web server like nginx inside LXD container?
+Note:
+lxd version: 4.0
+ansible version: 4.0 or 2.11 ansible-core
+Lxd container: ubuntu 20.04
+ansible remote host: ubuntu 20.04
